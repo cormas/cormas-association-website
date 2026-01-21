@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Cormas Association">
+  <rect x="10" y="10" width="108" height="108" rx="24" fill="#44A340"/>
+  <circle cx="64" cy="64" r="32" fill="#F5F5F5"/>
+  <path d="M42 70c10 10 34 10 44 0" fill="none" stroke="#1E6E2B" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="52" cy="54" r="4" fill="#2A2A2A"/>
+  <circle cx="76" cy="54" r="4" fill="#2A2A2A"/>
+</svg>
